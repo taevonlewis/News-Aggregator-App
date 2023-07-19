@@ -65,6 +65,7 @@ Clone the repository and open the Xcode project to get started. Make sure to get
 ```bash
 git clone https://github.com/yourgithubusername/NewsAggregatorApp.git
 open NewsAggregatorApp.xcodeproj
+```
 
 ## Acknowledgements
 The News Aggregator App was developed to practice and solidify advanced Swift and UIKit concepts, and to provide a strong reference for these concepts and their implementation in a real-world project.
